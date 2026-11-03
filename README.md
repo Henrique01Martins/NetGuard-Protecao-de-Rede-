@@ -46,3 +46,6 @@ netguard/
 ├── js/
 │   └── script.js
 └── README.md
+
+<img width="1877" height="892" alt="image" src="https://github.com/user-attachments/assets/f083c3c3-79cf-4c37-93c6-b0a52c5c4468" />
+
