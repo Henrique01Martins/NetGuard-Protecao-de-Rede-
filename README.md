@@ -37,12 +37,7 @@ O **NetGuard** é um projeto acadêmico e educativo que reúne conceitos introdu
 Não é necessário instalar dependências nem configurar servidor.
 
 
-<div align="center">
-  <img src="assets/netguard.png.png" 
-       alt="NetGuard - Central de Tecnologia" 
-       width="100%">
-</div>
-
+![NetGuard - Central de Tecnologia](./assets/netguard.png.png)
 ## Estrutura
 
 ```text
