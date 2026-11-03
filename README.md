@@ -36,6 +36,11 @@ O **NetGuard** é um projeto acadêmico e educativo que reúne conceitos introdu
 
 Não é necessário instalar dependências nem configurar servidor.
 
+
+<div align="center">
+  <img src="./assets/netguard.png.png" alt="NetGuard" width="100%">
+</div>
+
 ## Estrutura
 
 ```text
@@ -49,7 +54,3 @@ NetGuard-Protecao-de-Rede/
 ├── LICENSE
 ├── README.md
 └── README.md
-
-<div align="center">
-  <img src="./assets/netguard.png.png" alt="NetGuard" width="100%">
-</div>
