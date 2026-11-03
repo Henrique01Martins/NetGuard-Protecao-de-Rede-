@@ -41,10 +41,14 @@ Não é necessário instalar dependências nem configurar servidor.
 ## Estrutura
 
 ```text
-netguard/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── README.md
+NetGuard-Protecao-de-Rede--main/
+│
+├── README.md
+│
+└── NetGuard-Protecao-de-Rede--main/
+    ├── README.md
+    ├── Index.html
+    ├── JS/
+    ├── css/
+    └── assets/
+        └── netguard.png.png
