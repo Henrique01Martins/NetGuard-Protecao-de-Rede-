@@ -48,5 +48,5 @@ netguard/
 └── README.md
 
 <div align="center">
-  <img src="assets/NetGuard.png" alt="NetGuard - Visão Geral" width="100%">
+  <img src="assets/NetGuard.png.png" alt="NetGuard - Visão Geral" width="100%">
 </div>
